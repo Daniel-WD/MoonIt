@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="snow">#ffffff</color>
+
+    <!--<color name="one">#031727</color>-->
+    <!--<color name="two">#126872</color>-->
+    <!--<color name="three">#0B877D</color>-->
+    <!--<color name="four">#18C29C</color>-->
+    <!--<color name="five">#88F9D4</color>-->
+
+    <color name="one">#030B26</color>
+    <color name="two">#124973</color>
+    <color name="three">#0B6887</color>
+    <color name="four">#17AEC2</color>
+    <color name="five">#89FAFA</color>
+</resources>
